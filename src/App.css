@@ -50,6 +50,20 @@
   top: 36%;
   left: 16%;
 }
+
+.deal-button {
+  background-color: #ddd;
+  border: .1em solid darkgrey;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
 .card {
   border: .15em solid black;
   border-radius: 10%;
