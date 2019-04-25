@@ -50,7 +50,7 @@ render(){
             {this.state.showCards && this.displayHand()}
           </div>
         </div>
-        <button onClick={this.handleCardDeal}>Deal Cards!</button>
+        {!this.state.showCards && <button onClick={this.handleCardDeal}>Deal Cards!</button>}
       </div>
   )
 }
