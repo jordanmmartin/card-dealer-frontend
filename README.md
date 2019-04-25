@@ -4,6 +4,7 @@ Card Dealer is a single page web app that displays 5 random cards from a standar
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/41978173/56751353-db421b80-6753-11e9-9a38-840b22a6f251.png)
 ![image](https://user-images.githubusercontent.com/41978173/56748720-54d70b00-674e-11e9-841f-9b70f23952d8.png)
 
 
